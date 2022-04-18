@@ -1,0 +1,113 @@
+.color-nav {
+    background-color: #373A3C;
+
+}
+
+.logo {
+    color: #FFFFFF;
+    font-family: 'Lobster', cursive;
+    width: 137px;
+    height: 46px;
+
+
+
+}
+
+.text-right {
+    text-align: right;
+}
+
+.letra-blanca {
+    color: white
+}
+
+
+
+.texto {
+    width: 60%;
+    display: inline-block;
+    padding-right: 20px;
+    text-align: right;
+    vertical-align: middle;
+}
+
+h2 {
+    color: #373A3C;
+    font-family: 'Cabin', sans-serif;
+    text-align: center;
+
+
+}
+
+h5 {
+    color: #373A3C;
+    font-family: 'Cabin', sans-serif;
+
+}
+
+.borde {
+    border-color: #000000;
+}
+/* creo que esta media no esta bien definidas */
+@media screen and (max-width:576px) {
+
+    /*header*/
+    .imgPizza {
+        border-top: 1.5px;
+
+    }
+}
+
+.carousel-indicators li {
+    top: 60px;
+    width: 13px;
+    height: 13px;
+    border-radius: 50%;
+    background-color: var(--light);
+}
+
+.carousel-indicators .active {
+    background-color: var(--dark);
+}
+
+h4 {
+    text-decoration: underline;
+    color: #373A3C;
+}
+
+ul {
+    list-style: none;
+}
+
+.tituloreceta {
+    text-align: center;
+}
+
+.colornew {
+    background-color: #DC3545;
+    color: #FFFFFF;
+}
+
+
+
+.colorfooter {
+    background-color: #373A3C;
+    text-align: center;
+    color: #FFFFFF;
+    font-family: 'Lobster', cursive;
+
+
+}
+
+h1 {
+    text-align: center;
+}
+
+.news2 {
+    color: #FFFFFF;
+
+}
+
+.alintit {
+    text-align: left;
+}
